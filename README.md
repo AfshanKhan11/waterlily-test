@@ -127,19 +127,20 @@ Backend will run on [http://localhost:3000](http://localhost:3000).
 ## 📸 Screenshots
 
 🏠 **Login Page**
-![Login Page](screenshots/survey.png)
+![Login Page](screenshots/login.png)
+
+🏠 **Register Page**
+![Login Page](screenshots/register.png)
 
 📝 **Survey Interface**
-![Survey Interface](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Survey+Page+-+Question+Progress+with+Progress+Bar)
+![Survey Interface](screenshots/survey.png)
 
 📊 **Session History**
-![Session History](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Sessions+Page+-+View+Survey+History)
+![Session History](screenshots/Attempted-surveys.png)
 
 🔍 **Response Details**
-![Response Details](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Session+Details+-+Individual+Question+Responses)
-
-✅ **Completion Page**
-![Completion Page](https://via.placeholder.com/800x400/EC4899/FFFFFF?text=Completion+Page+-+Survey+Finished+Successfully)
+![Response Details](screenshots/review-survey-response.png)
+![Response Details](screenshots/review-survey-response-2.png)
 
 ---
 
@@ -161,13 +162,6 @@ Backend will run on [http://localhost:3000](http://localhost:3000).
 * Admin dashboard for managing surveys
 * Collaborative survey editing
 
-### Long-term Vision
-
-* Multi-language support
-* Accessibility (a11y) improvements
-* Progressive Web App (PWA) capabilities
-* Integration with analytics tools
-* API rate limiting and advanced security
 
 ---
 
