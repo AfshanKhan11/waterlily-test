@@ -12,7 +12,6 @@ This project demonstrates the ability to build both a frontend survey interface 
 - [Overview](#-overview)  
 - [Features](#-features)  
 - [Tech Stack](#-tech-stack)  
-- [Project Structure](#-project-structure)  
 - [Setup & Installation](#-setup--installation)  
   - [Frontend](#-frontend-setup)  
   - [Backend](#-backend-setup)  
@@ -80,8 +79,8 @@ Users can:
 
 ### 🔹 Prerequisites
 - Node.js (v16 or higher)  
-- npm or yarn  
-- SQL database (MySQL, PostgreSQL, or SQLite)  
+- npm
+- SQL database (MySQL)  
 
 ---
 
