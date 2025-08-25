@@ -92,17 +92,6 @@ cd waterlily-frontend
 # Install dependencies
 npm install
 
-# Configure environment variables
-cp .env.example .env
-
-
-Edit `.env` with your settings:
-
-```env
-VITE_API_URL=http://localhost:3000
-VITE_APP_NAME=Waterlily Survey
-```
-
 Start development server:
 
 ```bash
@@ -126,24 +115,10 @@ npm install
 cp .env.example .env
 ```
 
-Edit `.env` with your database and JWT settings:
-
-```env
-DATABASE_URL=your_database_connection_string
-JWT_SECRET=your_jwt_secret_key
-PORT=3000
-```
-
-Setup database:
-
-```bash
-npm run db:migrate
-```
-
 Start development server:
 
 ```bash
-npm run dev
+npm start
 ```
 
 Backend will run on [http://localhost:3000](http://localhost:3000).
@@ -219,28 +194,6 @@ Backend will run on [http://localhost:3000](http://localhost:3000).
 * **Performance**: Optimized re-renders with proper state management
 * **Maintainability**: Clean component structure and TypeScript coverage
 * **Scalability**: Modular architecture for future feature additions
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. Commit your changes
-
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-4. Push to the branch
-
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. Open a Pull Request
 
 ---
 
