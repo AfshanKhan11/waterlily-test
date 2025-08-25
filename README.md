@@ -127,7 +127,7 @@ Backend will run on [http://localhost:3000](http://localhost:3000).
 ## 📸 Screenshots
 
 🏠 **Login Page**
-![Login Page](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Login+Page+-+Clean+Authentication+Interface)
+![Login Page](screenshots/survey.png)
 
 📝 **Survey Interface**
 ![Survey Interface](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Survey+Page+-+Question+Progress+with+Progress+Bar)
